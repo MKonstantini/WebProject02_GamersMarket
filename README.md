@@ -1,5 +1,6 @@
 # WebProject02_GamersMarket  
-Link To Website: [mkonstantini.github.io/Webproject02_GamersMarket/](mkonstantini.github.io/Webproject02_GamersMarket/)
+Link To Website: [mkonstantini.github.io/WebProject02_GamersMarket/](https://mkonstantini.github.io/WebProject02_GamersMarket/)
+
 
 This is my second web-project!  
 An online store for gamers looking to purchase games and consoles.
